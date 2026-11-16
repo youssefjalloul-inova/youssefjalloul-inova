@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Youssef 👋
 
-<!--
-**youssefjalloul-inova/youssefjalloul-inova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-end designer & operator who ships real code
 
-Here are some ideas to get you started:
+I design products, then I build them. Design systems, front-end interfaces and AI-powered products, from the first sketch to something people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder of [Inova AI Solutions](https://www.inovasolutions.ai). Based in Sydney, Australia.
+
+## What I do
+
+- Front-end design and engineering
+- Design systems that teams can actually adopt
+- AI products and enterprise AI
+- Turning ideas into shipped, working software
+
+## Work
+
+Public repos are on their way: sanitized front-end builds and websites, published one at a time. Watch this space.
+
+## Find me
+
+- Website: [youssefjalloul.com](https://youssefjalloul.com)
+- Company: [inovasolutions.ai](https://www.inovasolutions.ai)
