@@ -28,22 +28,6 @@ My personal brand site. Positioning for enterprise buyers, a code-drawn illustra
 A 19-section product site cut to one page, one story and one action for enterprise buyers.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/youssefjalloul-inova/not-on-the-syllabus"><img src="assets/nots.jpg" alt="Not on the Syllabus"></a>
-<b><a href="https://github.com/youssefjalloul-inova/not-on-the-syllabus">Not on the Syllabus</a></b><br>
-The landing page for my first course: uni students go from idea to something real in one day, with AI.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/youssefjalloul-inova/html-video-engine"><img src="assets/engine.jpg" alt="HTML video engine"></a>
-<b><a href="https://github.com/youssefjalloul-inova/html-video-engine">HTML video engine</a></b><br>
-Write a video as a script, get a narrated MP4. Local voice, coded music, rendered in headless Chrome. Built 32 course videos.
-</td>
-<td width="50%" valign="top">
-<b><a href="https://github.com/youssefjalloul-inova/brand-genome-template">Brand Genome Template</a></b><br>
-Brand as code: strategy, story, voice, facts and prompts in one repo, with a brand check on every pull request.<br><br>
-<b><a href="https://github.com/youssefjalloul-inova/brand-universe-starter">Brand Universe Starter</a></b><br>
-Two free AI skills: find what to build and who buys first, then design the logo, palette and fonts.
 </td>
 </tr>
 </table>
