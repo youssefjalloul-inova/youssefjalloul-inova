@@ -28,6 +28,18 @@ My personal brand site. Positioning for enterprise buyers, a code-drawn illustra
 A 19-section product site cut to one page, one story and one action for enterprise buyers.
 </td>
 <td width="50%" valign="top">
+<a href="https://ikraa.academy"><img src="assets/ikraa.jpg" alt="ikraa.academy"></a>
+<b><a href="https://ikraa.academy">ikraa.academy</a></b><br>
+Award-winning software that teaches Arabic reading and writing in under 36 hours. 7,000+ learners, now a game for children growing up abroad.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://higus.ai"><img src="assets/gus.jpg" alt="higus.ai"></a>
+<b><a href="https://higus.ai">higus.ai</a></b><br>
+Gus, an AI assistant that lives in WhatsApp and takes the admin off small businesses, entrepreneurs and service providers.
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
