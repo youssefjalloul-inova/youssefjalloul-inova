@@ -44,6 +44,15 @@ Gus, an AI assistant that lives in WhatsApp and takes the admin off small busine
 An AI clinic assistant that takes the admin off doctors, nurses and medical staff, so they can spend more time with patients.
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/yj-skill-library/skill-router"><img src="assets/skill-router.jpg" alt="Skill Router"></a>
+<b><a href="https://github.com/yj-skill-library/skill-router">Skill Router</a></b> <sub>(open source)</sub><br>
+Keep hundreds of Claude skills and carry only one. A small router skill loads the right skill from a GitHub library, so Claude stops spending tokens on skills it isn't using.
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ## What I do
