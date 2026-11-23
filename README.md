@@ -51,6 +51,9 @@ An AI clinic assistant that takes the admin off doctors, nurses and medical staf
 Keep hundreds of Claude skills and carry only one. A small router skill loads the right skill from a GitHub library, so Claude stops spending tokens on skills it isn't using.
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/youssefjalloul-inova/api-looper"><img src="assets/api-looper.jpg" alt="API Looper"></a>
+<b><a href="https://github.com/youssefjalloul-inova/api-looper">API Looper</a></b> <sub>(open source)</sub><br>
+Bring your own API key into Claude Desktop. Claude plans and reviews, while Kimi, OpenAI or any model on your key does the bulk work on your own credits.
 </td>
 </tr>
 </table>
