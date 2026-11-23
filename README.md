@@ -40,6 +40,7 @@ Award-winning software that teaches Arabic reading and writing in under 36 hours
 Gus, an AI assistant that lives in WhatsApp and takes the admin off small businesses, entrepreneurs and service providers.
 </td>
 <td width="50%" valign="top">
+<img src="assets/sanad.jpg" alt="Sanad landing page">
 <b>Sanad</b> <sub>(coming soon)</sub><br>
 An AI clinic assistant that takes the admin off doctors, nurses and medical staff, so they can spend more time with patients.
 </td>
